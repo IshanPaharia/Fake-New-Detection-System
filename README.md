@@ -79,7 +79,7 @@ These metrics provide a well-rounded view of model performance and generalizabil
 
   1. Clone this repo:
 ```bash
-git clone https://github.com/IshanPaharia/Fake-New-Detection-System.git
+git clone https://github.com/IshanPaharia/Fake-News-Detection-System.git
 ```
 
 2. Install dependencies:
